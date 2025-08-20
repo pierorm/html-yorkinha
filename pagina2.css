@@ -1,0 +1,27 @@
+body {
+    background: #FFE6FF;
+}
+
+h1 {
+    font-size: 25px;
+    font-style:oblique
+}
+
+h2 {
+    font-size: 35px;
+    font-style: oblique;
+    text-align: center;
+    color:green;
+}
+
+li {
+    font-style: italic;
+    color: gray;
+    font-weight: bold;
+}
+
+#imagecentering {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

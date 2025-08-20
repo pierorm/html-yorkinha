@@ -1,0 +1,49 @@
+body {
+    background: #FFE6FF;
+}
+
+.order {
+    font-size: 20px;
+}
+
+#centertext {
+    text-align: center;
+}
+
+h2 {
+    color:cornflowerblue;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#imagecentering {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    color: black;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+p {
+    font-size: 12px;
+}
+
+#fixedbutton {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
+
+
+
+
+
+
+
+
